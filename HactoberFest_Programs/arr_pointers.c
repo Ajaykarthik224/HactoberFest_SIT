@@ -4,5 +4,5 @@ int main() {
 	//Declare a pointer ptr of type int
 	int *p;
 	printf("\n Address of array = %p %p %p %p", arr, &arr[0], &arr,&p+2);
-	return 0;
+	return 0
 } 
